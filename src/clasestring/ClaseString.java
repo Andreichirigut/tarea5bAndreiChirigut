@@ -100,6 +100,8 @@ public class ClaseString {
                     + " contenido = " + arrayChar[i]);
         }
         
+        System.out.println("Esto es una modificación by gabriel payano");
+        
     }
     
 }
